@@ -11,3 +11,6 @@ Este proyecto va a ser presentado en el [certamen de Proyectos Libres de la UGR 
 * [Ahisahar Pretel rodriguez](https://github.com/approdriguez)
 
 * [Luis Liñán Villafranca](https://github.com/lulivi)
+
+
+[Licencia](LICENSE)
