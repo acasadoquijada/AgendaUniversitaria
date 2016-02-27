@@ -12,5 +12,7 @@ Este proyecto va a ser presentado en el [certamen de Proyectos Libres de la UGR 
 
 * [Luis Liñán Villafranca](https://github.com/lulivi)
 
+##Blog
+* [Agenda Universitaria](http://agenda-universitaria-etsiit.blogspot.com.es/)
 
 [Licencia](LICENSE)
