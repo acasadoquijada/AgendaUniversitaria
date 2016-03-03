@@ -1,4 +1,4 @@
-# AgendaUniversitaria
+# Agenda universitaria
 Aplicación android de apoyo para el estudio
 
 Este proyecto va a ser presentado en el [certamen de Proyectos Libres de la UGR 2015-2016](http://osl.ugr.es/bases-de-los-premios-a-proyectos-libres-de-la-ugr/)
