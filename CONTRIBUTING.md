@@ -11,5 +11,5 @@ public void funcion_uno(){
 // codigo
 }
 ~~~
-* Si se quiere aportar codigo al proyecto, debe de estar correctamente documentado.
+* Si se quiere aportar código al proyecto, debe de estar correctamente documentado.
 
