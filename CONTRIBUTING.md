@@ -1,5 +1,5 @@
 #Cómo contribuir
-Para participar en nuestro proyecto se deben de seguir una serie de pautas.
+Si estas interesado en ayudarnos en nuestro proyecto hay una serie de pautas que debes seguir para un correcto desarrollo del mismo.
 
 ##Pautas
 * Idioma global del proyecto: castellano.
