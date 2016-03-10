@@ -21,7 +21,10 @@ android {
     testOptions {
         unitTests.returnDefaultValues = true
     }
+
+
 }
+
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
@@ -29,4 +32,16 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.2.0'
 }
 
+buildscript {
+    repositories {
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
+    }
+    dependencies {
+        classpath "org.kt3k.gradle.plugin:coveralls-gradle-plugin:2.6.3"
+    }
+}
+
+apply plugin: "com.github.kt3k.coveralls"
 
