@@ -1,7 +1,6 @@
 package es.com.blogspot.httpagenda_universitaria_etsiit.agendauniversitaria;
 
-import org.junit.*;
-
+import org.junit.Test;
 
 /**
  * Created by alejandro on 10/03/16.

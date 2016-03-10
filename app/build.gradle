@@ -48,3 +48,6 @@ buildscript {
 
 apply plugin: "com.github.kt3k.coveralls"
 
+dependencies {
+    androidTestCompile 'junit:junit:4.12'
+}
