@@ -4,3 +4,8 @@ android:
     - platform-tools
     - build-tools-23.0.1
     - android-23
+    
+    
+after_success:
+ - ./gradlew cobertura coveralls
+
